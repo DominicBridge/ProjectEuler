@@ -1,0 +1,8 @@
+c:\users\dominic\documents\visual studio 2015\Projects\ProjectEuler2\bin\Debug\ProjectEuler2.exe.config
+c:\users\dominic\documents\visual studio 2015\Projects\ProjectEuler2\bin\Debug\ProjectEuler2.exe
+c:\users\dominic\documents\visual studio 2015\Projects\ProjectEuler2\bin\Debug\ProjectEuler2.pdb
+c:\users\dominic\documents\visual studio 2015\Projects\ProjectEuler2\obj\Debug\ProjectEuler2.exe
+c:\users\dominic\documents\visual studio 2015\Projects\ProjectEuler2\obj\Debug\ProjectEuler2.pdb
+E:\GitHub\ProjectEuler\ProjectEuler2\bin\Debug\ProjectEuler2.exe.config
+E:\GitHub\ProjectEuler\ProjectEuler2\obj\Debug\ProjectEuler2.exe
+E:\GitHub\ProjectEuler\ProjectEuler2\obj\Debug\ProjectEuler2.pdb
